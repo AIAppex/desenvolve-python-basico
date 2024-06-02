@@ -1,0 +1,20 @@
+O truque da tabuada do 9 é baseado em uma propriedade interessante. 
+Quando multiplicamos 9 por qualquer número, o resultado pode ser obtido da seguintes maneiras:
+
+Subtraímos 1 do número original (n) para obter o primeiro dígito (digito1).
+Subtraímos o número original (n) de 10 para obter o segundo dígito (digito2).
+O resultado final é obtido multiplicando o primeiro dígito (digito1) por 10 e somando com o segundo dígito (digito2).
+
+Outro método é:
+
+Aumentar (+1) ao primeiro valor e subtrair (-1) ao segundo valor.
+Vale lembrar que o primeiro valor começa com zero (0) e o segundo com nove (9).
+O resultado final é a tabuada do 9 de maneira simples.
+
+EXS:
+
+09
+18
+27
+36
+....
