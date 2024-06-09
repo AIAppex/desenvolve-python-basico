@@ -23,5 +23,5 @@ def validar_cpf(cpf):
     else:
         return 'Inválido'
 
-cpf = input('Digite um CPF na forma XXX.XXX.XXX-XX: )
+cpf = input('Digite um CPF na forma XXX.XXX.XXX-XX: ')
 print(validar_cpf(cpf))
